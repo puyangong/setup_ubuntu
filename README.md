@@ -1,0 +1,1 @@
+proot一键脚本，让ubuntu系统目录一键设置为termux根目录
